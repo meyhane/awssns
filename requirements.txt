@@ -1,0 +1,4 @@
+Flask
+sesamutils
+requests
+boto3 
